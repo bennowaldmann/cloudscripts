@@ -2,7 +2,7 @@ title: Cloud Scripts
 email: bennowaldmann@outlook.com
 description: >- # this means to ignore newlines until "baseurl:"
   Short and sweet scripts, thoughts and ideas for Cloud development, DevOps and Programming. 
-#baseurl: "cloudscripts" # the subpath of your site, e.g. /blog
+baseurl: "/cloudscripts" # the subpath of your site, e.g. /blog
 #url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
 github_username:  bennowaldmann
